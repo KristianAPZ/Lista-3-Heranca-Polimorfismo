@@ -1,0 +1,14 @@
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.AssemblyInfoInputs.cache
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.AssemblyInfo.cs
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.csproj.CoreCompileInputs.cache
+C:\Users\apaza\Lista03C#\06\bin\Debug\net9.0\06.exe
+C:\Users\apaza\Lista03C#\06\bin\Debug\net9.0\06.deps.json
+C:\Users\apaza\Lista03C#\06\bin\Debug\net9.0\06.runtimeconfig.json
+C:\Users\apaza\Lista03C#\06\bin\Debug\net9.0\06.dll
+C:\Users\apaza\Lista03C#\06\bin\Debug\net9.0\06.pdb
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.dll
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\refint\06.dll
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.pdb
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\06.genruntimeconfig.cache
+C:\Users\apaza\Lista03C#\06\obj\Debug\net9.0\ref\06.dll
