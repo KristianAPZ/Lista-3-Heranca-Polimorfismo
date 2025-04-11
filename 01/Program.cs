@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using Models01;
+
+Cachorro raiza = new Cachorro();
+
+Gato michi = new Gato();
+
+raiza.EmitirSom();
+michi.EmitirSom();
